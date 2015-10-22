@@ -1,2 +1,2 @@
-# OERManoa
-testing github as OER workspace
+# OERUHawaii
+open educational resource initiative
